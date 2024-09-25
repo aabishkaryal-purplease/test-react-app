@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/test-react-app.git
+   git clone https://github.com/aabishkaryal-purplease/test-react-app
    ```
 
 2. Navigate to the project directory:
